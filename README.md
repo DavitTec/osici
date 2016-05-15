@@ -1,5 +1,5 @@
 # osici
-Some creativity an tools for the OSICI members and public
+Some creativity and tools for the OSICI members and public
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 OSICI Foundation was created and founded by David Mullins
